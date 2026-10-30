@@ -1,0 +1,31 @@
+{
+  "students": [
+    {
+      "student_id": "STU1001",
+      "name": "Aarav Sharma",
+      "programme": "PGDM",
+      "fee_status": "Partially Paid",
+      "total_fee": 200000,
+      "paid_amount": 150000,
+      "scholarship_status": "Eligible for Review"
+    },
+    {
+      "student_id": "STU1002",
+      "name": "Priya Patel",
+      "programme": "PGDM",
+      "fee_status": "Paid",
+      "total_fee": 200000,
+      "paid_amount": 200000,
+      "scholarship_status": "Approved"
+    },
+    {
+      "student_id": "STU1003",
+      "name": "Rohan Verma",
+      "programme": "PGDM",
+      "fee_status": "Pending",
+      "total_fee": 200000,
+      "paid_amount": 0,
+      "scholarship_status": "Not Applied"
+    }
+  ]
+}

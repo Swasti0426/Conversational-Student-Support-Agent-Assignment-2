@@ -1,0 +1,7 @@
+.env
+*.db
+data/student_memory.json
+__pycache__/
+.venv/
+venv/
+logs/*.jsonl

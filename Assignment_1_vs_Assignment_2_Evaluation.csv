@@ -1,0 +1,8 @@
+Measurement,Assignment 1,Assignment 2,Comparison
+Number of traces/requests,14,33,Different sample sizes
+Average latency (seconds),1.811,2.032,+12.2%
+Average input tokens,1106.7,1456.0,+31.6%
+Average output tokens,74.9,139.8,+86.6%
+Cross-student access,Chat refusal observed; backend enforcement not fully evidenced,Backend tool guard denied cross-student request in test,Stronger tested enforcement
+Sensitive-action approval,Human approval workflow not evidenced,Pending / approved / rejected flows recorded; enrollment not changed,"Workflow added, limited processing"
+Sensitive memory,Not measured in comparison dataset,Dummy password/OTP refused; exact values absent from two checked files,"Targeted test passed, not exhaustive"

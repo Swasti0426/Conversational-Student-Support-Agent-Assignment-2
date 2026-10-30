@@ -1,0 +1,5 @@
+
+Student_ID,Student_Name,Program,Total_Fee,Paid_Amount,Fee_Status
+STU1001,Aarav Sharma,PGDM,200000,150000,Partially Paid
+STU1002,Priya Patel,PGDM,200000,200000,Paid
+STU1003,Rohan Verma,PGDM,200000,0,Pending

@@ -1,0 +1,11 @@
+PRIVACY AND APPROVAL RULES IMPLEMENTED
+
+1. Student record access: The agent checks the authenticated student's ID against the student ID requested by a tool. Cross-student private record requests are denied and audited.
+
+2. Sensitive actions: Course-change requests are recorded as pending review instead of executing immediately. A reviewer can approve or reject a request. Rejected requests remain unexecuted. Approval currently means approval for authorized processing; it does not itself update the course-enrolment database.
+
+3. Sensitive memory: The agent refuses to save content identified as passwords or OTPs in persistent preference memory. A test with dummy values found those exact values absent from the student-memory and conversation-memory files checked. This targeted test does not prove every possible secret format is detected.
+
+4. Auditability: Audit records capture action, permission decision, approval status and result.
+
+LIMITATION: Reviewer role must come from a trusted authenticated session inside the authorization boundary. A caller-supplied role is not production-grade authorization.

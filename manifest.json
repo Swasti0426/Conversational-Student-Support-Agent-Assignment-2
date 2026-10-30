@@ -1,0 +1,30 @@
+{
+  "knowledge_base\\tables\\policies.csv": {
+    "hash": "d5d1453da530f7d34756a1d63ed8b696d3e16f10c4ee6a21e3dfe6497de06ba4",
+    "status": "indexed",
+    "ids": [
+      "dcc72aaa1cfe99ee69b7cca61335ba7cfbcb62b0888baf52aeefcf9d93bcd433",
+      "9deb7b3a1b50b889888b9e4b37f4650f3edd24a789ac31dc6f14a826ebeacda2",
+      "68eb7facb23ddf13af86314053730b6f602d774f7638c6c6ec4782d88e12a78b",
+      "7c858c6da6336b4dcd5f755f6f4ea92a7070cfe1e76dfccb6dc56673fb60b11e"
+    ]
+  },
+  "knowledge_base\\tables\\student_fees.csv": {
+    "hash": "a3475b29ab09845411ad1e3899653b9c496840ff808e894ee568ee6ef10bc0d3",
+    "status": "indexed",
+    "ids": [
+      "242d850541552b7f9a8ae6a2bdef4153930ac22d7211cd8fa0f974b2bd44c05c",
+      "72e227487dc37f7b3322d12f77fa466e5e840e653762c57e3093ecb1a4bb35c7",
+      "3fd75e029485129ed44a4c423ee0ade7297de68a155c1daff0eae67a9aec3bdf"
+    ]
+  },
+  "knowledge_base\\tables\\scholarships.xlsx": {
+    "hash": "740354d1fd62e33523decabd06b1ef0ede36260951372ead1b67e706a68fce7c",
+    "status": "indexed",
+    "ids": [
+      "68932ac64bdd14eecb38dd53abfe65e69e43324ba68fad231be02ccb3995930f",
+      "d700ffb65d49aeeca9d36fae1a8cca18d5b1a187db6c54d4c62c6aafb70b7a0f",
+      "df36cde137e27e001a37418fe28393f21decf2bac2eca90c35752480a62d416b"
+    ]
+  }
+}
